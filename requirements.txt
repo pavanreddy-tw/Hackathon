@@ -9,3 +9,5 @@ Requests
 setuptools
 setuptools
 streamlit
+google-auth
+google-cloud-storage
