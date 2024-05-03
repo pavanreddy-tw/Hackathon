@@ -1,1 +1,6 @@
-# Hackaton
+# Hackathon
+
+
+```
+streamlit run server.py
+```
